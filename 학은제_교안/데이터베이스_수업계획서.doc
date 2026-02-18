@@ -1,0 +1,571 @@
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=unicode">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link href="http://cb.egreen.co.kr/css/lectureplan_css.css" type="text/css" rel="stylesheet">
+</head>
+
+<body lang=KO link=blue vlink=purple style='tab-interval:40.0pt'>
+<div class=WordSection1>
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ summary="내가 듣고 있는 과목에 대한 강의계획서로  학기기수, 지도교수, 강의교수, 학습기간, 전공구분, 학점이수기간, 정원수, 평가기준, 성적분포, 평가기간, 성적이의신청기간, 학습환경, 교재에 대한 내용이 포함되어 있습니다."
+ width="100%" style='margin-left:.25pt;border-collapse:collapse;mso-table-layout-alt:
+ fixed;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 5.65pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=602 colspan=6 style='width:451.35pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+  mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;mso-bidi-font-size:
+  9.0pt'>수업계획서<span lang=EN-US><o:p></o:p></span></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>학습과목명<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=217 colspan=2 style='width:163.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span style='mso-spacerun:yes'> </span><span
+  style='font-size:9.0pt'>데이터베이스</span></p>
+  </td>
+  <td width=94 style='width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+  mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>학기<span lang=EN-US>/</span>기수<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=177 style='width:132.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span>2026</span><span
+  style='font-size:9.0pt'>년<span lang=EN-US> 1</span>학기<span lang=EN-US> 3</span>기수<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>지도교수<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=217 colspan=2 style='width:163.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:9.0pt'>박미영<br>-연락처:02-540-7802<br>-E-mail:egreen@egreen.co.kr<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=94 style='width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+  mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>강의교수<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=177 style='width:132.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:9.0pt'>박미영<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>학습기간<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=217 colspan=2 style='width:163.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span>2026-02-11 ~ 2026-05-26<o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+  mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>전공구분<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=177 style='width:132.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:9.0pt'>전공/교양<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>학점<span lang=EN-US>/</span>이수기간<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=217 colspan=2 style='width:163.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span>3</span><span
+  style='font-size:9.0pt'>학점<span lang=EN-US> / 15</span>주<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=94 style='width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+  mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>분반정원<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=177 style='width:132.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span>40</span><span
+  style='font-size:9.0pt'>명<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=602 colspan=6 style='width:451.35pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 7.1pt'>
+  <p class=MsoNormal align=center style='text-align:center;text-indent:-945.65pt;
+  mso-line-height-alt:0pt'><span style='font-size:9.0pt;display:none;
+  mso-hide:all'><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>수업목표<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>1. 데이터베이스에 대한 전반적인 개념을 설명할 수 있다.<BR>2. 데이터 모델(개념적 데이터 모델, 논리적 데이터 모델)에 대해 설명할 수 있다.<BR>3. 관계 데이터 모델과 관계 무결성 제약조건을 설명하고 설계할 수 있다.<BR>4. 데이터 종속성과 정규화를 설명하고 설명할 수 있다.<BR>5. 관계대수와 관계 해석에 대해 설명할 수 있다.<BR>6. SQL에 대해 이해하고 활용할 수 있다.<BR>7. 데이터베이스 설계에 대해 설명할 수 있다.<BR>8. 트랜잭션과 무결성, 보안에 대해 설명할 수 있다.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>평가기준
+  
+  <span lang=EN-US> 
+  <br>
+  <span style='color:red'>[</span></span><span style='color:red'>상대평가 기준<span
+  lang=EN-US>]</span></span><span lang=EN-US> <o:p></o:p></span>
+  
+  </span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  class=GramE><span style='font-size:9.0pt'>중간고사<span lang=EN-US> :</span></span></span><span
+  lang=EN-US style='font-size:9.0pt'> 30% <br>
+  <span style='mso-spacerun:yes'> </span></span><span style='font-size:9.0pt'>기말고사<span
+  lang=EN-US> : 30% <br>
+  <span style='mso-spacerun:yes'> </span></span>과제물<span lang=EN-US> : 15%<br>
+  <span style='mso-spacerun:yes'> </span></span>출석<span lang=EN-US> : 15% <br>
+
+  <span style='mso-spacerun:yes'> </span></span>복습시험<span lang=EN-US> : 5% <br>
+
+  <span style='mso-spacerun:yes'> </span></span>기타<span lang=EN-US>(</span>학습동의/자기소개/학습목표/쪽지<span lang=EN-US>) : 5% <o:p></o:p></span></span>
+  <br></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>수료기준<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt;color:red'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:9.0pt;color:red'>총점<span lang=EN-US> 60 </span>점 이상시 수료<span
+  lang=EN-US> (</span>진도<span lang=EN-US> 80% </span>미만일 경우 수료 불가<span
+  lang=EN-US>)</span></span><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>성적분포<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'>
+  <span lang=EN-US style='font-size:9.0pt'>
+  <span style='font-size:9.0pt'>
+  
+ 	<span style='mso-spacerun:yes'> </span>A등급 : 30%이내
+	<br><span style='mso-spacerun:yes'> </span>B등급 : 40%이내
+	<br><span style='mso-spacerun:yes'> </span>C등급 이하 : B이상을 제외한 나머지의 비율
+ 
+  </span></p>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:9.0pt'>※ 단<span lang=EN-US>, </span>위의 각 비율은 과목 특성 등의 사유로 학습자의<span
+  lang=EN-US> 10% </span>범위 내에서 증감 조정이 가능<span lang=EN-US>. <br>
+  <span style='mso-spacerun:yes'> </span></span>
+  
+ ※ 단<span lang=EN-US>, 5</span>명
+  미만 인 경우<span lang=EN-US> [</span>절대평가<span lang=EN-US>] </span>기준 적용<span
+  lang=EN-US>. <o:p></o:p></span></span>
+  
+  </p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>평가기간<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'>
+  <span style='font-size:9.0pt'>
+	<span style='mso-spacerun:yes'> </span>중간고사 : 2026.03.28 00:00 ~ 2026.03.31 23:59
+	<br><span style='mso-spacerun:yes'> </span>기말고사 : 2026.05.23 00:00 ~ 2026.05.26 23:59
+	<br><span style='mso-spacerun:yes'> </span>과 제 물 : 2026.04.22 00:00 ~ 2026.05.12 23:59 (총괄과제 1회)
+	<br><span style='mso-spacerun:yes'> </span>과제주제 : 게임 개발을 위하여 DB를 구축하고자 한다. 전통적인 방식의 ER다이어그램을 도시하라.<BR>(주의: 표기법은 다른 도구들을 사용하지 말고 본 강의에서 다룬 P. Chen의 전통적인 ER 다이어그램으로 그려서, 그림 파일이나 ppt 파일로 제출하세요. 그 외의 다른 표기법으로는 평가를 하기 어렵습니다.)<BR><BR>● 게임 DB에는 계정, 캐릭터, 아이템, 캐쉬의 엔티티를 가지고 있다 이중 아이템은 약한 엔티티이다.<BR>● 계정은 아이디, 패스워드, 성명, 생년월일, 결제수단의 속성을 가지고 있으며 이중 아이디는 키속성으로 사용된다.<BR>● 캐릭터는 성별, 장비, 레벨, 직업, 캐릭터명의 속성을 가지고 있으며 이중 장비 속성은 다중 값 속성을 가지고 있다.<BR>● 아이템은 아이템명, 가격, 아이템설명의 속성을 가지고 있다.<BR>● 캐쉬는 충전일, 남은금액, 충전수단의 속성을 가지고 있으며 이중 충전일은 부분키 속성이다.<BR>● 계정과 캐릭터는 생성의 관계를 가지고 있으며 생성 관계는 생성일의 속성을 가지고 있다.<BR>● 캐릭터와 아이템은 습득의 관계를 가지고 있으며 습득 관계는 습득일의 속성을 가지고 있다.<BR>● 계정과 캐쉬는 충전의 관계를 가지고 있으며 충전 관계는 결제수단 속성을 가지고 있다.<BR>● 캐릭터와 캐쉬는 구매 관계를 가지고 있으며 구매 관계는 구매금액, 구매일 속성을 가지고 있다.<BR>● 하나의 계정에는 여러 캐릭터를 만들수 있으며 캐릭터는 하나의 계정에 속한다.<BR>● 하나의 계정에는 하나의 캐쉬가 충전되며 캐쉬는 하나의 계정에 속한다.<BR>● 캐쉬는 여러 캐릭터의 구매가 가능 하며 캐릭터는 여러번 캐쉬를 사용 할 수 있다.<BR>● 캐릭터는 여러번 아이템을 습득 할 수 있으며 아이템은 여러 캐릭에 습득 될 수 있다.
+	<br><span style="font-weight: bold;color: #FF0000;">※  위 과제 주제는 변경될 수 있으며, 확정된 과제 주제 및 구체적인 내용은 과제 제출 기간에 나의강의실 과제 메뉴를 통해 확인하시기 바랍니다.</span>
+  </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>성적이의신청기간<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'>
+  <span style='font-size:9.0pt'>
+	<span style='mso-spacerun:yes'> </span>중간고사 : 2026.04.05 12:00 ~ 2026.04.08 23:59
+	<br><span style='mso-spacerun:yes'> </span>전체성적 : 2026.05.31 12:00 ~ 2026.06.09 23:59
+   </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>최종성적 확인일<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>성적확인 가능시점 : 2026-06-16 오전 10시 부터</span>
+  <br><span style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>학점인정 신청 가능일 : 2026-06-23 (종강 후 4주 부터)</span>
+  <br><span style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>※ 학점인정 신청기간은 성적확정 후 국가평생교육진흥원 학점은행 홈페이지(<a href="https://www.cb.or.kr/" target="_blank">https://www.cb.or.kr/</a>)를 통해 확인 가능합니다.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>강의유형<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>이론중심(ㅇ)</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>학습환경<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  class=GramE><span style='font-size:9.0pt'>운영체제<span lang=EN-US> :</span></span></span><span
+  lang=EN-US style='font-size:9.0pt'> </span><span style='font-size:9.0pt'>윈도우<span
+  lang=EN-US>7 </span>이상<span lang=EN-US> (32</span>비트<span lang=EN-US>) <br>
+  <span style='mso-spacerun:yes'> </span></span>브라우저<span lang=EN-US> : </span>인터넷익스플로러<span
+  lang=EN-US> 9 </span>이상<span lang=EN-US> (32</span>비트<span lang=EN-US>) <br>
+  <span style='mso-spacerun:yes'> </span></span>동 영 상<span lang=EN-US> : </span>미디어플레이어<span
+  lang=EN-US> 10 </span>이상<span lang=EN-US> <br>
+  <span style='mso-spacerun:yes'> </span></span>기 타<span lang=EN-US> : </span>플레시
+  플레이어<span lang=EN-US>, PDF </span>뷰어<span lang=EN-US> <br>
+  <span style='mso-spacerun:yes'> </span></span>상기 환경에 최적화 되어 있으며<span
+  lang=EN-US>, </span>인터넷익스플로러<span lang=EN-US> 9 </span>이하에서는 본 사이트<span
+  lang=EN-US><span style='mso-spacerun:yes'>  </span></span>이용시 오류가 발생할 수 있습니다<span
+  lang=EN-US>. <o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>교재<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+   <span style='font-size:9.0pt'><p>자체 교재(학습자 PDF 교안)</p>
+</span>
+  </td>
+ </tr>
+</table>
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%" style='margin-left:.25pt;border-collapse:collapse;mso-table-layout-alt:
+ fixed;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 5.65pt'>
+  <tr style='mso-yfti-irow:13'>
+   <td width=602 colspan=6 style='width:451.35pt;border:none;border-bottom:
+   solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;
+   padding:0cm 0cm 0cm 0cm'>
+   <p class=MsoNormal align=center style='text-align:center;text-indent:-945.65pt;
+   mso-line-height-alt:0pt'><span style='font-size:9.0pt;display:none;
+   mso-hide:all'>&nbsp;<span lang=EN-US><o:p></o:p></span></span></p>
+   </td>
+  </tr>
+ <thead>
+  <tr style='mso-yfti-irow:14;height:27.7pt'>
+   <td width=38 style='width:1.0cm;border:solid windowtext 1.0pt;border-top:
+   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;
+   padding:0cm 0cm 0cm 0cm;height:27.7pt'>
+   <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+   style='font-size:9.0pt'>주차<span lang=EN-US><o:p></o:p></span></span></p>
+   </td>
+   <td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:
+   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+   mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+   mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm;height:27.7pt'>
+   <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+   style='font-size:9.0pt'>차시명<span lang=EN-US><o:p></o:p></span></span></p>
+   </td>
+   <td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:
+   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+   mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+   mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm;height:27.7pt'>
+   <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+   style='font-size:9.0pt'>학습내용<span lang=EN-US><o:p></o:p></span></span></p>
+   </td>
+  </tr>
+ </thead>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 데이터 개념 1<br>[기간:2026-02-11~2026-02-24]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 데이터 개념 1<BR><BR>2) 강의주제:<BR>  ① 정보시스템<BR>  ② 데이터베이스의 개념<BR><BR>3) 강의내용(학습목표):<BR>  ① 자료와 정보, 정보 시스템에 대해 설명할 수 있다.  <BR>  ② 데이터베이스 정의 및 특징에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 데이터 개념 2<br>[기간:2026-02-11~2026-02-24]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 데이터 개념 2<BR><BR>2) 강의주제:<BR>  ① 데이터베이스 관리 시스템<BR>  ② 스키마, 데이터 독립성<BR>  ③ 데이터베이스 시스템의 구성요소, 언어, 사용자 <BR><BR>3) 강의내용(학습목표):<BR>  ① 데이터베이스 관리 시스템의 정의 및 필수기능에 대해 설명할 수 있다.  <BR>  ② 스키마, 데이터 독립성에 대해 설명할 수 있다.  <BR>  ③ 데이터베이스 시스템의 구성요소, 언어, 사용자 등에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>2</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 데이터 모델 1<br>[기간:2026-02-18~2026-03-03]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 데이터 모델 1<BR><BR>2) 강의주제: 데이터 모델의 개요<BR>  ① 데이터 모델의 구성요소, 엔티티, 관계 속성<BR>  ② 엔티티와 엔티티 타입, 속성, 관계 타입<BR>  ③ 엔티티의 키, 강 엔티티, 약 엔티티 등<BR><BR>3) 강의내용(학습목표):<BR>  ① 데이터 모델의 구성요소, 엔티티, 관계 속성에 대해 설명할 수 있다.  <BR>  ② 엔티티와 엔티티 타입, 속성, 관계 타입에 대해 설명할 수 있다.<BR>  ③ 엔티티의 키, 강 엔티티, 약 엔티티 등에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 데이터 모델 2<br>[기간:2026-02-18~2026-03-03]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목:  데이터 모델 2<BR><BR>2) 강의주제:<BR>  ① 계층 데이터 모델<BR>  ② 네트워트 데이터 모델<BR>  ③ 관계 데이터 모델<BR><BR>3) 강의내용(학습목표):<BR>  ① 계층 데이터 모델에 대해 설명할 수 있다.  <BR>  ② 네트워트 데이터 모델에 대해 설명할 수 있다.  <BR>  ③ 관계 데이터 모델에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>3</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 관계 데이터 모델과 관계 무결성 제약조건 1<br>[기간:2026-02-25~2026-03-10]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 관계 데이터 모델과 관계 무결성 제약조건 1<BR><BR>2) 강의주제: <BR>  ① 릴레이션, 속성, 튜플, 도메인<BR>  ② 속성간의 순서, 상이한 튜플, 속성의 명칭과 값<BR>  ③ 튜플의 속성 <BR> <BR>3) 강의내용(학습목표):<BR>  ① 릴레이션, 속성, 튜플, 도메인 등에 대해 설명할 수 있다.<BR>  ② 속성간의 순서, 상이한 튜플, 속성의 명칭과 값에 대해 설명할 수 있다.<BR>  ③ 튜플의 속성 등에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 관계 데이터 모델과 관계 무결성 제약조건 2<br>[기간:2026-02-25~2026-03-10]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 관계 데이터 모델과 관계 무결성 제약조건 2<BR><BR>2) 강의주제: <BR>  ① 키의 개념 및 종류<BR>  ② 무결성 제약조건<BR> <BR>3) 강의내용(학습목표):<BR>  ① 슈퍼키와 후보키, 기본키, 대체키, 외래키 등에 대해 설명할 수 있다.<BR>  ② 개체무결성, 참조무결성에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>4</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 데이터 종속성과 정규화 1<br>[기간:2026-03-04~2026-03-17]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 데이터 종속성과 정규화 1<BR><BR>2) 강의주제: <BR>  ① 수정 이상<BR>  ② 삽입 이상, 삭제 이상<BR>  ③ 함수 종속<BR><BR>3) 강의내용(학습목표):<BR>  ① 수정 이상에 대해 설명할 수 있다.<BR>  ② 삽입 이상, 삭제 이상에 대해 설명할 수 있다.<BR>  ③ 함수 종속에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 데이터 종속성과 정규화 2<br>[기간:2026-03-04~2026-03-17]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 데이터 종속성과 정규화 2<BR><BR>2) 강의주제: <BR>  ① 제1정규형, 제2정규형<BR>  ② 제3정규형<BR>  ③ 보이스/코드 정규형(BCNF)<BR> <BR>3) 강의내용(학습목표):<BR>  ① 제1정규형, 제2정규형에 대해 설명할 수 있다.<BR>  ② 제3정규형에 대해 설명할 수 있다.<BR>  ③ 보이스/코드 정규형(BCNF)에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>5</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 관계 대수와 관계 해석 1<br>[기간:2026-03-11~2026-03-24]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 관계 대수와 관계 해석 1<BR><BR>2) 강의주제: <BR>  ① 순수 관계 연산자<BR>  ② 일반 집합 연산자<BR><BR>3) 강의내용(학습목표):<BR>  ① 순수 관계 연산자에 대해 설명할 수 있다.<BR>  ② 일반 집합 연산자에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 관계 대수와 관계 해석 2<br>[기간:2026-03-11~2026-03-24]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 관계 대수와 관계 해석 2<BR><BR>2) 강의주제: <BR>  ① 튜플 관계 해석<BR>  ② 도메인 관계 해석<BR> <BR>3) 강의내용(학습목표):<BR>  ① 튜플 관계 해석에 대해 설명할 수 있다.<BR>  ② 도메인 관계 해석에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>6</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 SQL 1<br>[기간:2026-03-18~2026-03-31]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: SQL 1<BR><BR>2) 강의주제: <BR>  ① SQL의 역사 <BR>  ② SQL의 유형별 종류 <BR> <BR>3) 강의내용(학습목표):<BR>  ① SQL의 역사에 대해 설명할 수 있다. <BR>  ② SQL의 유형별 종류에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 SQL 2<br>[기간:2026-03-18~2026-03-31]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: SQL 2<BR><BR>2) 강의주제: <BR>  ① 스키마<BR>  ② 테이블 생성(CREATE TABLE)<BR>  ③ 테이블 변경(ALTER) <BR>  ④ 테이블 제거(DROP TABLE)<BR>  ⑤ 제약조건<BR><BR>3) 강의내용(학습목표):<BR>  ① 스키마에 대해 설명할 수 있다.<BR>  ② 테이블 생성(CREATE TABLE)에 대해 설명할 수 있다.<BR>  ③ 테이블 변경(ALTER)에 대해 설명할 수 있다.<BR>  ④ 테이블 제거(DROP TABLE)에 대해 설명할 수 있다.<BR>  ⑤ 제약 조건에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><span lang=EN-US style='font-size:9.0pt'>특강</span></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>데이터베이스 조작 (SQL 노하우)</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'></span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>7</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>중간고사<br>[기간:2026-03-28~2026-03-31]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>8주차 (중간고사) 성적 확인 및 오답 확인  <BR>9주차 (중간고사) 성적 이의 신청 및 처리</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>8</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 SQL 3<br>[기간:2026-04-01~2026-04-14]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: SQL 3<BR><BR>2) 강의주제: <BR>  ① 데이터 검색<BR>  ② 데이터 삽입<BR><BR>3) 강의내용(학습목표):<BR> ① 데이터 검색(SELECT)에 대해 설명할 수 있다. <BR> ② 데이터 삽입(INSERT)에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 SQL 4<br>[기간:2026-04-01~2026-04-14]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: SQL 4<BR><BR>2) 강의주제: <BR> ① 데이터 갱신<BR> ② 데이터 삭제<BR><BR>3) 강의내용(학습목표):<BR> ① 데이터 갱신(UPDATE)에 대해 설명할 수 있다. <BR> ② 데이터 삭제(DELETE)에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>9</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 뷰와 저장 프로시저 1<br>[기간:2026-04-08~2026-04-21]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 뷰와 저장 프로시저 1<BR><BR>2) 강의주제: <BR>  ① 뷰의 생성<BR>  ② 뷰의 내부구조<BR>  ③ 뷰의 수정과 제거<BR><BR>3) 강의내용(학습목표):<BR>  ① 뷰의 생성에 대해 설명할 수 있다. <BR>  ② 뷰의 내부구조에 대해 설명할 수 있다. <BR>  ③ 뷰의 수정과 제거에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 뷰와 저장 프로시저 2<br>[기간:2026-04-08~2026-04-21]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 뷰와 저장 프로시저 2<BR><BR>2) 강의주제: <BR>  ① 저장 프로시저 생성하기<BR>  ② 저장 프로시저 수정하기<BR>  ③ 저장 프로시저 제거하기<BR> <BR>3) 강의내용(학습목표):<BR>  ① 저장 프로시저 생성하기에 대해 설명할 수 있다. <BR>  ② 저장 프로시저 수정하기에 대해 설명할 수 있다. <BR>  ③ 저장 프로시저 제거하기에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>10</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 데이터베이스 설계와 ER 모델 1<br>[기간:2026-04-15~2026-04-28]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 데이터베이스 설계와 ER 모델 1<BR><BR>2) 강의주제: <BR>  ① 데이터베이스 설계 개요<BR>  ② ER 모델<BR><BR>3) 강의내용(학습목표):<BR>  ① 데이터베이스 설계 단계에 대해 설명할 수 있다. <BR>  ② ER 모델에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 데이터베이스 설계와 ER 모델 2<br>[기간:2026-04-15~2026-04-28]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 데이터베이스 설계와 ER 모델 2<BR><BR>2) 강의주제: <BR>  ① 데이터베이스 설계 사례<BR>  ② 논리적 설계<BR> <BR>3) 강의내용(학습목표):<BR>  ① 사례 연습에 대해 설명할 수 있다. <BR>  ② ER 스키마를 관계 모델의 릴레이션에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>11</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 트랜잭션 1<br>[기간:2026-04-22~2026-05-05]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 트랜잭션 1<BR><BR>2) 강의주제: <BR>  ① 트랜잭션의 개념<BR>  ② 트랜잭션의 특징<BR> <BR>3) 강의내용(학습목표):<BR>  ① 트랜잭션의 개념에 대해 설명할 수 있다. <BR>  ② 트랜잭션의 특징에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 트랜잭션 2<br>[기간:2026-04-22~2026-05-05]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 트랜잭션 2<BR><BR>2) 강의주제: <BR>  ① COMMIT 연산(완료)<BR>  ② ROLLBACK 연산(복귀)<BR> <BR>3) 강의내용(학습목표):<BR>  ① COMMIT 연산(완료)에 대해 설명할 수 있다. <BR>  ② ROLLBACK 연산(복귀)에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>12</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 장애와 회복 1<br>[기간:2026-04-29~2026-05-12]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 장애와 회복 1<BR><BR>2) 강의주제: <BR>  ① 트랜잭션 장애<BR>  ② 시스템 장애<BR>  ③ 미디어 장애<BR><BR>3) 강의내용(학습목표):<BR>  ① 트랜잭션 장애에 대해 설명할 수 있다. <BR>  ② 시스템 장애에 대해 설명할 수 있다. <BR>  ③ 미디어 장애에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 장애와 회복 2<br>[기간:2026-04-29~2026-05-12]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 장애와 회복 2<BR><BR>2) 강의주제: <BR>  ① 회복을 위해 치할 수 있는 조치<BR>  ② 회복의 유형<BR><BR>3) 강의내용(학습목표):<BR>  ① 회복을 위해 치할 수 있는 조치에 대해 설명할 수 있다. <BR>  ② 회복의 유형에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>13</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 무결성과 보안 1<br>[기간:2026-05-06~2026-05-19]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 무결성과 보안 1<BR><BR>2) 강의주제: <BR>  ① 도메인 무결성 규정<BR>  ② 트리거(trigger)<BR>  ③ 주장(assertion)<BR><BR>3) 강의내용(학습목표):<BR>  ① 도메인 무결성 규정에 대해 설명할 수 있다. <BR>  ② 트리거(trigger)에 대해 설명할 수 있다. <BR>  ③ 주장(assertion)에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 무결성과 보안 2<br>[기간:2026-05-06~2026-05-19]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 무결성과 보안 2<BR><BR>2) 강의주제: <BR>  ① 데이터 암호화기 QJQ<BR>  ② DES<BR>  ③ 공개키 암호화 기법, 전자서명 <BR><BR>3) 강의내용(학습목표):<BR>  ① 데이터 암호화기 QJQ에 대해 설명할 수 있다. <BR>  ② DES에 대해 설명할 수 있다. <BR>  ③ 공개키 암호화 기법, 전자서명에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>14</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 분산 데이터베이스 1<br>[기간:2026-05-13~2026-05-26]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 분산 데이터베이스 1<BR><BR>2) 강의주제: <BR>  ① 분산 처리기(distributed processor)<BR>  ② 분산 데이터베이스(distributed database)<BR>  ③ 통신 네트워크(communication network)<BR> <BR>3) 강의내용(학습목표):<BR>  ① 분산 처리기(distributed processor)에 대해 설명할 수 있다. <BR>  ② 분산 데이터베이스(distributed database)에 대해 설명할 수 있다.<BR>  ③ 통신 네트워크(communication network)에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 분산 데이터베이스 2<br>[기간:2026-05-13~2026-05-26]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 분산 데이터베이스 2<BR><BR>2) 강의주제: <BR>  ① 위치 투명성(Location transparency) <BR>  ② 중복 투명성(Replication transparency)<BR>  ③ 병행 투명성(Concurrency transparency)<BR> <BR>3) 강의내용(학습목표):<BR>  ① 위치 투명성(Location transparency)에 대해 설명할 수 있다.  <BR>  ② 중복 투명성(Replication transparency)에 대해 설명할 수 있다. <BR>  ③ 병행 투명성(Concurrency transparency)에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><span lang=EN-US style='font-size:9.0pt'>특강</span></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>데이터관리 (불법적인 데이터를 막기위한 기능 팁)</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'></span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>15</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>기말고사<br>[기간:2026-05-23~2026-05-26]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>종강 4일 후 최종 성적 확인  <BR>종강 후 10일 이내, 성적 이의 신청 접수 및 처리 완료</span></p></td>
+</tr>
+</table>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>

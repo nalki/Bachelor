@@ -1,0 +1,571 @@
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=unicode">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 14">
+<meta name=Originator content="Microsoft Word 14">
+<link href="http://cb.egreen.co.kr/css/lectureplan_css.css" type="text/css" rel="stylesheet">
+</head>
+
+<body lang=KO link=blue vlink=purple style='tab-interval:40.0pt'>
+<div class=WordSection1>
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ summary="내가 듣고 있는 과목에 대한 강의계획서로  학기기수, 지도교수, 강의교수, 학습기간, 전공구분, 학점이수기간, 정원수, 평가기준, 성적분포, 평가기간, 성적이의신청기간, 학습환경, 교재에 대한 내용이 포함되어 있습니다."
+ width="100%" style='margin-left:.25pt;border-collapse:collapse;mso-table-layout-alt:
+ fixed;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 5.65pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=602 colspan=6 style='width:451.35pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+  mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:10.0pt;mso-bidi-font-size:
+  9.0pt'>수업계획서<span lang=EN-US><o:p></o:p></span></span></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>학습과목명<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=217 colspan=2 style='width:163.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span style='mso-spacerun:yes'> </span><span
+  style='font-size:9.0pt'>인터넷프로토콜</span></p>
+  </td>
+  <td width=94 style='width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+  mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>학기<span lang=EN-US>/</span>기수<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=177 style='width:132.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span>2026</span><span
+  style='font-size:9.0pt'>년<span lang=EN-US> 1</span>학기<span lang=EN-US> 3</span>기수<span
+  lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>지도교수<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=217 colspan=2 style='width:163.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:9.0pt'>박남섭<br>-연락처:02-540-7802<br>-E-mail:egreen@egreen.co.kr<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=94 style='width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+  mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>강의교수<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=177 style='width:132.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:9.0pt'>이승주<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>학습기간<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=217 colspan=2 style='width:163.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span>2026-02-11 ~ 2026-05-26<o:p></o:p></span></p>
+  </td>
+  <td width=94 style='width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+  mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>전공구분<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=177 style='width:132.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:9.0pt'>전공/교양<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>학점<span lang=EN-US>/</span>이수기간<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=217 colspan=2 style='width:163.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span>3</span><span
+  style='font-size:9.0pt'>학점<span lang=EN-US> / 15</span>주<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=94 style='width:70.85pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+  mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>분반정원<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=177 style='width:132.4pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span>40</span><span
+  style='font-size:9.0pt'>명<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=602 colspan=6 style='width:451.35pt;border:none;border-bottom:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 7.1pt'>
+  <p class=MsoNormal align=center style='text-align:center;text-indent:-945.65pt;
+  mso-line-height-alt:0pt'><span style='font-size:9.0pt;display:none;
+  mso-hide:all'><span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>수업목표<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>1. 인터넷 프로토콜의 원리를 학습하고 설명할 수 있다. <BR>2. 어플리케이션 계층, 트랜스 포트 계층, 네트워크 계층, 링크 계층에 대하여 학습하고 설명할 수 있다. <BR>3. 무선과 이동 네트워크에 대하여 학습하고 설명할 수 있다. <BR>4. 멀티미디어 네트워킹에 대하여 학습하고 설명할 수 있다. <BR>5. 컴퓨터 네트워크 보안에 대하여 학습하고 설명할 수 있다. <BR>6. 인터넷 프로토콜의 동작원리, 인터넷 주소방식, 인터넷 프로토콜(IP), IP Packet Routing, ARP, RARP, <BR>TCP/UDP, ICMP, Telnet FTP, SMTP, HTTP, IPv6,등 보안 프로토콜 등에 대하여 학습하고 설명할 수 있다.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>평가기준
+  
+  <span lang=EN-US> 
+  <br>
+  <span style='color:red'>[</span></span><span style='color:red'>상대평가 기준<span
+  lang=EN-US>]</span></span><span lang=EN-US> <o:p></o:p></span>
+  
+  </span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  class=GramE><span style='font-size:9.0pt'>중간고사<span lang=EN-US> :</span></span></span><span
+  lang=EN-US style='font-size:9.0pt'> 30% <br>
+  <span style='mso-spacerun:yes'> </span></span><span style='font-size:9.0pt'>기말고사<span
+  lang=EN-US> : 30% <br>
+  <span style='mso-spacerun:yes'> </span></span>과제물<span lang=EN-US> : 15%<br>
+  <span style='mso-spacerun:yes'> </span></span>출석<span lang=EN-US> : 15% <br>
+
+  <span style='mso-spacerun:yes'> </span></span>복습시험<span lang=EN-US> : 5% <br>
+
+  <span style='mso-spacerun:yes'> </span></span>기타<span lang=EN-US>(</span>학습동의/자기소개/학습목표/쪽지<span lang=EN-US>) : 5% <o:p></o:p></span></span>
+  <br></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>수료기준<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt;color:red'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:9.0pt;color:red'>총점<span lang=EN-US> 60 </span>점 이상시 수료<span
+  lang=EN-US> (</span>진도<span lang=EN-US> 80% </span>미만일 경우 수료 불가<span
+  lang=EN-US>)</span></span><span lang=EN-US style='font-size:9.0pt'><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>성적분포<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'>
+  <span lang=EN-US style='font-size:9.0pt'>
+  <span style='font-size:9.0pt'>
+  
+ 	<span style='mso-spacerun:yes'> </span>A등급 : 30%이내
+	<br><span style='mso-spacerun:yes'> </span>B등급 : 40%이내
+	<br><span style='mso-spacerun:yes'> </span>C등급 이하 : B이상을 제외한 나머지의 비율
+ 
+  </span></p>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  style='font-size:9.0pt'>※ 단<span lang=EN-US>, </span>위의 각 비율은 과목 특성 등의 사유로 학습자의<span
+  lang=EN-US> 10% </span>범위 내에서 증감 조정이 가능<span lang=EN-US>. <br>
+  <span style='mso-spacerun:yes'> </span></span>
+  
+ ※ 단<span lang=EN-US>, 5</span>명
+  미만 인 경우<span lang=EN-US> [</span>절대평가<span lang=EN-US>] </span>기준 적용<span
+  lang=EN-US>. <o:p></o:p></span></span>
+  
+  </p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>평가기간<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'>
+  <span style='font-size:9.0pt'>
+	<span style='mso-spacerun:yes'> </span>중간고사 : 2026.03.28 00:00 ~ 2026.03.31 23:59
+	<br><span style='mso-spacerun:yes'> </span>기말고사 : 2026.05.23 00:00 ~ 2026.05.26 23:59
+	<br><span style='mso-spacerun:yes'> </span>과 제 물 : 2026.04.22 00:00 ~ 2026.05.12 23:59 (총괄과제 1회)
+	<br><span style='mso-spacerun:yes'> </span>과제주제 : ‘프로토콜’ 이라는 단어는 외교적인 관계에서도 사용되기도 한다. 위키피디아는 외교적 프로토콜을 어떻게 기술하고 있는가? 또 프로토콜에 대한 표준이 왜 중요한가? <BR><과제 제출 전 반드시 전체공지사항 확인 바랍니다.>
+	<br><span style="font-weight: bold;color: #FF0000;">※  위 과제 주제는 변경될 수 있으며, 확정된 과제 주제 및 구체적인 내용은 과제 제출 기간에 나의강의실 과제 메뉴를 통해 확인하시기 바랍니다.</span>
+  </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>성적이의신청기간<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'>
+  <span style='font-size:9.0pt'>
+	<span style='mso-spacerun:yes'> </span>중간고사 : 2026.04.05 12:00 ~ 2026.04.08 23:59
+	<br><span style='mso-spacerun:yes'> </span>전체성적 : 2026.05.31 12:00 ~ 2026.06.09 23:59
+   </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>최종성적 확인일<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>성적확인 가능시점 : 2026-06-16 오전 10시 부터</span>
+  <br><span style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>학점인정 신청 가능일 : 2026-06-23 (종강 후 4주 부터)</span>
+  <br><span style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>※ 학점인정 신청기간은 성적확정 후 국가평생교육진흥원 학점은행 홈페이지(<a href="https://www.cb.or.kr/" target="_blank">https://www.cb.or.kr/</a>)를 통해 확인 가능합니다.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>강의유형<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span style='mso-spacerun:yes'> </span><span style='font-size:9.0pt'>이론중심(ㅇ)</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>학습환경<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US
+  style='font-size:9.0pt'><span style='mso-spacerun:yes'> </span></span><span
+  class=GramE><span style='font-size:9.0pt'>운영체제<span lang=EN-US> :</span></span></span><span
+  lang=EN-US style='font-size:9.0pt'> </span><span style='font-size:9.0pt'>윈도우<span
+  lang=EN-US>7 </span>이상<span lang=EN-US> (32</span>비트<span lang=EN-US>) <br>
+  <span style='mso-spacerun:yes'> </span></span>브라우저<span lang=EN-US> : </span>인터넷익스플로러<span
+  lang=EN-US> 9 </span>이상<span lang=EN-US> (32</span>비트<span lang=EN-US>) <br>
+  <span style='mso-spacerun:yes'> </span></span>동 영 상<span lang=EN-US> : </span>미디어플레이어<span
+  lang=EN-US> 10 </span>이상<span lang=EN-US> <br>
+  <span style='mso-spacerun:yes'> </span></span>기 타<span lang=EN-US> : </span>플레시
+  플레이어<span lang=EN-US>, PDF </span>뷰어<span lang=EN-US> <br>
+  <span style='mso-spacerun:yes'> </span></span>상기 환경에 최적화 되어 있으며<span
+  lang=EN-US>, </span>인터넷익스플로러<span lang=EN-US> 9 </span>이하에서는 본 사이트<span
+  lang=EN-US><span style='mso-spacerun:yes'>  </span></span>이용시 오류가 발생할 수 있습니다<span
+  lang=EN-US>. <o:p></o:p></span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td width=113 colspan=2 style='width:3.0cm;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;padding:
+  0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+  style='font-size:9.0pt'>교재<span lang=EN-US><o:p></o:p></span></span></p>
+  </td>
+  <td width=488 colspan=4 style='width:366.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'>
+   <span style='font-size:9.0pt'><p>자체 교재(학습자 PDF 교안)</p>
+</span>
+  </td>
+ </tr>
+</table>
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%" style='margin-left:.25pt;border-collapse:collapse;mso-table-layout-alt:
+ fixed;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 5.65pt'>
+  <tr style='mso-yfti-irow:13'>
+   <td width=602 colspan=6 style='width:451.35pt;border:none;border-bottom:
+   solid windowtext 1.0pt;mso-border-bottom-alt:solid windowtext .5pt;
+   padding:0cm 0cm 0cm 0cm'>
+   <p class=MsoNormal align=center style='text-align:center;text-indent:-945.65pt;
+   mso-line-height-alt:0pt'><span style='font-size:9.0pt;display:none;
+   mso-hide:all'>&nbsp;<span lang=EN-US><o:p></o:p></span></span></p>
+   </td>
+  </tr>
+ <thead>
+  <tr style='mso-yfti-irow:14;height:27.7pt'>
+   <td width=38 style='width:1.0cm;border:solid windowtext 1.0pt;border-top:
+   none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+   background:#F2F2F2;mso-shading:windowtext;mso-pattern:gray-5 auto;
+   padding:0cm 0cm 0cm 0cm;height:27.7pt'>
+   <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+   style='font-size:9.0pt'>주차<span lang=EN-US><o:p></o:p></span></span></p>
+   </td>
+   <td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:
+   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+   mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+   mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm;height:27.7pt'>
+   <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+   style='font-size:9.0pt'>차시명<span lang=EN-US><o:p></o:p></span></span></p>
+   </td>
+   <td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:
+   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+   mso-border-alt:solid windowtext .5pt;background:#F2F2F2;mso-shading:windowtext;
+   mso-pattern:gray-5 auto;padding:0cm 0cm 0cm 0cm;height:27.7pt'>
+   <p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span
+   style='font-size:9.0pt'>학습내용<span lang=EN-US><o:p></o:p></span></span></p>
+   </td>
+  </tr>
+ </thead>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 인터넷 개요와 프로토콜<br>[기간:2026-02-11~2026-02-24]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 인터넷 개요와 프로토콜<BR><BR>2) 강의주제:<BR>  ① 인터넷 개요<BR>  ② TCP/IP구조<BR>  ③ 네트워크 보안과 인터넷 역사<BR><BR>3) 강의내용(학습목표):<BR>  ① 인터넷의 태동과 오늘날의 인터넷을 설명 할 수 있다. <BR>  ② 현대적 의미의 인터넷, 즉 프로토콜 기반의 인터넷을 설명 할 수 있다.<BR>  ③ 네트워크 설계자들이 가장 고민해야할 보안과 현재의 인터넷의 위상에 따른 발전 경로를 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 인터넷프로토콜 관리<br>[기간:2026-02-11~2026-02-24]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목:  인터넷프로토콜 관리<BR><BR>2) 강의주제:<BR>  ① IP주소 관리 기법<BR>  ② IP주소 관련 프로토콜<BR>  ③ IP멀티캐스팅 및 IPv4 실전 구성<BR><BR>3) 강의내용(학습목표):<BR>  ① IP(Internet Protocol)의 개념 이해 및 네트워크 관리를 설명 할 수 있다.<BR>  ② IP주소 및 효율적 망(Network)관리를 위한 규약과 그 운용을 설명 할 수 있다.<BR>  ③ 망(Network)내 지연, 손실의 원인 규명 및 이로 인한 네트워크 처리능력의 평가를 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>2</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 애플리케이션 계층 1<br>[기간:2026-02-18~2026-03-03]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 애플리케이션 계층 1<BR><BR>2) 강의주제:<BR>  ① 네트워크 애플리케이션 구조<BR>  ② 웹과 HTTP  <BR>  ③ 파일 전송 : FTP<BR><BR>3) 강의내용(학습목표):<BR>  ① 컴퓨터 네트워크의 존재 이유인 네트워크 애플리케이션의 구조를  설명 할 수 있다.<BR>  ② 인터넷 애플리케이션이 채택하고 있는 클라이언트/서버 패러다임에 대해 설명 할 수 있다.  <BR>  ③ 파일 트랜스퍼 프로토콜을 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 애플리케이션 계층 2<br>[기간:2026-02-18~2026-03-03]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 애플리케이션 계층 2<BR><BR>2) 강의주제:<BR>  ① 인터넷 전자 메일<BR>  ② DNS-인터넷의 디렉터리 서비스<BR>  ③ P2P 애플리케이션<BR><BR>3) 강의내용(학습목표):<BR>  ① 연결지향형과 비 연결형 종단 간 전송 서비스를 통한 소켓의 사용을 설명 할 수 있다.  <BR>  ② DNS동작 원리와 DNS의 레코드와 메시지에 의한 DNS제공 서비스를 설명 할 수 있다. <BR>  ③ 점진적으로 퍼져나가고 있는 P2P구조를 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>3</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 트랜스 포트 계층 1<br>[기간:2026-02-25~2026-03-10]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 트랜스 포트 계층 1<BR><BR>2) 강의주제: <BR>  ① 트랜스 포트 계층 서비스 및 개요<BR>  ② 다중화와 역 다중화  <BR>  ③ 비연결형 트랜스포트 : UDP<BR> <BR>3) 강의내용(학습목표):<BR>  ① 트랜스 포트 계층과 네트워크 계층 사이의 관계 및 트랜스 포트 계층의 개요를 설명 할 수 있다.<BR>  ② 인터넷에서의 데이터그램 집중화와 간편화를 설명 할 수 있다.  <BR>  ③ UDP(비연결형 트랜스포트)의 세그먼트 구조와 통신보안을 위한 체크섬을 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 트랜스 포트 계층 2<br>[기간:2026-02-25~2026-03-10]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 트랜스 포트 계층 2<BR><BR>2) 강의주제: <BR>  ① 신뢰성 있는 데이터 전송의 원리<BR>  ② 연결 지향형 트랜스 포트<BR>  ③ 신뢰적인 데이터 전달<BR> <BR>3) 강의내용(학습목표):<BR>  ① 신뢰성 있는 데이터 전달 프로토콜의 구축을 설명 할 수 있다.<BR>  ② TCP연결과 TCP의 세그먼트 구조를 설명 할 수 있다.<BR>  ③ 인터넷 망에서 데이터 그램의 신뢰적 프로토콜의 디자인을 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>4</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 트랜스 포트 계층 3<br>[기간:2026-03-04~2026-03-17]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 트랜스 포트 계층 3<BR><BR>2) 강의주제: <BR>  ① 혼잡 제어의 원리<BR>  ② ATM ABR 혼잡<BR>  ③ TCP혼잡 제어<BR><BR>3) 강의내용(학습목표):<BR>  ① 혼잡의 원인과 비용 그리고 접근법에 대해 설명 할 수 있다.<BR>  ② 네트워크 혼잡제어의 예를 설명 할 수 있다.<BR>  ③ TCP연결의 신뢰성 확보에 따른 혼잡비용을 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 네트워크 계층 1<br>[기간:2026-03-04~2026-03-17]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목:네트워크 계층 1<BR><BR>2) 강의주제: <BR> ① 네트워크 계층의 개요<BR> ② 가상회선과 데이터 그램 네트워크 <BR> ③ VC와 데이터그램 네트워크의 기원 <BR> <BR>3) 강의내용(학습목표):<BR> ① 포워딩과 라우팅 그리고 네트워크 서비스 모델을 설명할 수 있다.<BR> ② 가상회선과 데이터 그램 네트워크는 컴퓨터 네트워크의 두 가지 기초적 분류이며, 이들이 포워딩을 결정하는데 활용하는 정보와 그 구현을 설명 할 수 있다. <BR>  ③ VC와 데이터그램 네트워크의 기원에 대해 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>5</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 네트워크 계층 2<br>[기간:2026-03-11~2026-03-24]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 네트워크 계층 2<BR><BR>2) 강의주제: <BR>  ① 네트워크 계층에서의 라우터 역할<BR>  ② 인터넷 프로토콜(IP):인터넷에서의 포워딩과 주소체계   <BR>  ③ IPv4 주소체계<BR> <BR>3) 강의내용(학습목표):<BR>  ① 네트워크 계층에서의 라우터 역할에 대해 설명 할 수 있다.<BR>  ② 인터넷에서의 포워딩을 위한 데이터그램의 형식과 주소 체계를 설명 할 수 있다.  <BR>  ③ 기존의 인터넷 주소체계인 IPv4 주소체계에 대해 그리고 현재 변화되고 있는 인터넷 환경에 대해 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 네트워크 계층 3<br>[기간:2026-03-11~2026-03-24]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 네트워크 계층 3<BR><BR>2) 강의주제: <BR>  ① 인터넷 제어 메시지 프로토콜(ICMP)<BR>  ② IPv6  <BR>  ③ IPv6 보안개요<BR> <BR>3) 강의내용(학습목표):<BR>  ① [RFC 792]에 정의된 인터넷 제어 메시지 프로토콜(ICMP)에 대해 설명 할 수 있다.<BR>  ② 1990년대 초 IETF(Internet Engineering Task Force)에 의해 개발되기 시작한 차세대 주소체계인 IPv6에 대해 설명 할 수 있다.  <BR>  ③ 새롭게 대두된 보안의 필요성과 그에 대응하고 있는 IPv6에 대해 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>6</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 네트워크 계층 4<br>[기간:2026-03-18~2026-03-31]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 네트워크 계층 4<BR><BR>2) 강의주제: <BR>  ① 라우팅 알고리즘<BR>  ② 링크상태(LS) & 거리 벡터(DV) 라우팅 알고리즘<BR>  ③ 계층적 라우팅<BR><BR>3) 강의내용(학습목표):<BR>  ① 네트워크 계층 내에서 최단 최선의 경로를 찾아갈 수 있는 방법론에 대해 설명 할 수 있다.<BR>  ② 링크상태(LS) & 거리 벡터(DV) 라우팅 알고리즘에 대해 설명 할 수 있다.  <BR>  ③ 각각 독립적인 계층 간 효율적 라우팅 방법론에 대해 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 네트워크 계층 5<br>[기간:2026-03-18~2026-03-31]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 네트워크 계층 5<BR><BR>2) 강의주제: <BR>  ① 인터넷에서의 인트라-AS 라우팅: RIP & OSPF<BR>  ② 인터-AS 라우팅 : BGP  <BR>  ③ 브로드캐스트와 멀티캐스트 라우팅<BR> <BR>3) 강의내용(학습목표):<BR>  ① AS(autonomous system)내에서 라우팅 테이블을 구성하고 유지하는 인트라-AS 라우팅 알고리즘을 설명 할 수 있다. <BR>  ② 인터-AS 라우팅을 설명 할 수 있다.  <BR>  ③ 브로드캐스트와 멀티캐스트 라우팅의 차이점과 각 장단점을 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><span lang=EN-US style='font-size:9.0pt'>특강</span></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>5G</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'></span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>7</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>중간고사<br>[기간:2026-03-28~2026-03-31]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>8주차 (중간고사) 성적 확인 및 오답 확인  <BR>9주차 (중간고사) 성적 이의 신청 및 처리</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>8</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 링크 계층 1<br>[기간:2026-04-01~2026-04-14]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 링크 계층 1<BR><BR>2) 강의주제: <BR>  ① 링크 계층 소개<BR>  ② 오류 검출 및 정정기술  <BR>  ③ 다중 접속 링크와 프로토콜<BR> <BR>3) 강의내용(학습목표):<BR>  ① 링크 계층이 제공하는 서비스 및 링크계층이 구현되는 위치를 설명 할 수 있다.<BR>  ② 패리티, 체크섬, 순환중복 검사에 대해 설명 할 수 있다.  <BR>  ③ 채널 분할 & 랜덤 접속 & 순번 프로토콜에 대해 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 링크 계층 2<br>[기간:2026-04-01~2026-04-14]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 링크 계층 2<BR><BR>2) 강의주제: <BR>  ① 스위치 근거리 네트워크<BR>  ② 링크 가상화 : 링크 계층으로서의 네트워크   <BR>  ③ 데이터 센터 네트워킹<BR> <BR>3) 강의내용(학습목표):<BR>  ① 링크계층 주소 체계와 이더넷링크계층 스위치를 설명 할 수 있다.<BR>  ② 다중 프로토콜 레이블 스위칭을 설명 할 수 있다.<BR>  ③ 최근 다국적 인터넷 기업(예, 구글, 마이크로소프트...)을 필두로       국내외 기업들이 구축하고 횔용하고 있는 데이터 센터의 개념을        설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>9</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 링크 계층 - 웹페이지 요청에 대한 처리<br>[기간:2026-04-08~2026-04-21]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 링크계층 - 웹페이지 요청에 대한 처리<BR><BR>2) 강의주제:<BR>  ① iP 그리고 이더넷<BR>  ② DNS서버로의 인트라-도메인 라우팅 <BR>  ③ 웹 클라이언트-서버 상호 작용 : TCP와 HTTP<BR><BR>3) 강의내용(학습목표):<BR>  ① iP 그리고 이더넷를 설명 할 수 있다.<BR>  ② DNS서버로의 인트라-도메인 라우팅을 설명 할 수 있다.  <BR>  ③ 웹 클라이언트-서버 상호 작용를 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 무선과 이동 네트워크 1<br>[기간:2026-04-08~2026-04-21]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 무선과 이동 네트워크 1<BR><BR>2) 강의주제: <BR>  ① 개요<BR>  ② CDMA<BR>  ③ Wi-Fi : 802.11 무선 랜<BR> <BR>3) 강의내용(학습목표):<BR>  ① 이동 사용자, 무성링크와 네트워크, 그리고 이들이 접속하는 좀 더 큰 네트워크(대체로 유선 네트워크)와의 관계에 대해 설명할 수 있다.<BR>  ② CDMA를 기반으로 한 무선링크와 무선 네트워크의 특징을 설명 할 수 있다.<BR>  ③ 802.11 무선 랜의 구조, MAC 프로토콜에 대해 설명할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>10</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 무선과 이동 네트워크 2<br>[기간:2026-04-15~2026-04-28]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 무선과 이동 네트워크 2<BR><BR>2) 강의주제: <BR>  ① 셀롤러 인터넷 접근<BR>  ② 이동성 관리 : 원리<BR>  ③ 이동 IP<BR> <BR>3) 강의내용(학습목표):<BR>  ① 셀롤러 네트워크 구조에 대해 설명 할 수 있다.<BR>  ② 주소체계 그리고 이동 노드로의 라우팅을 설명 할 수 있다.<BR>  ③ 이동성을 지원하는 인터넷 구조 및 프로토콜(통칭 “이동IP”)을 정의하고 있는 IPv4 RFC5944에 대해 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 무선과 이동 네트워크 3<br>[기간:2026-04-15~2026-04-28]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 무선과 이동 네트워크 3<BR><BR>2) 강의주제: <BR>  ① 이동 사용자로의 콜 전달<BR>  ② GSM에서의 핸드 오프<BR>  ③ 무선과 이동성 : 상위계층프로토콜에의 영향<BR><BR>3) 강의내용(학습목표):<BR>  ① 셀롤러 네트워크에서의 이동성 관리에 대해 설명 할 수 있다.<BR>  ② 셀롤러 네트워크에서의 이동성 관리 중 핸드오프의 발생에 대해 설명 할 수 있다.<BR>  ③ 셀롤러 네트워크에서 발생 할 수 있는 계층 간 상이점을 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>11</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 멀티미디어 네트워킹 1<br>[기간:2026-04-22~2026-05-05]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목:  멀티미디어 네트워킹 1<BR><BR>2) 강의주제: <BR>  ① 멀티미디어 네트워킹 어플리케이션<BR>  ② UDP & HTTP 스트리밍  <BR>  ③ DASH(적응적 스트리밍) & CDN(콘텐츠 분배 네트워크)<BR> <BR>3) 강의내용(학습목표):<BR>  ① 비디오 & 오디오 특성 및 멀티미디어 네트워크 애플리케이션의 종       류를 설명 할 수 있다.<BR>  ② 스트리밍 저장 비디오의 특성을 설명 할 수 있다. <BR>  ③ 각 사례 연구별로 각 서비스 별 멀티미디어 네트워킹을 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 멀티미디어 네트워킹 2<br>[기간:2026-04-22~2026-05-05]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 멀티미디어 네트워킹 2<BR><BR>2) 강의주제: <BR>  ① Voice-over IP<BR>  ② 실시간 대화형 애플리케이션을 위한 프로토콜  <BR>  ③ 멀티미디어 지원을 위한 네트워크<BR><BR>3) 강의내용(학습목표):<BR>  ① IP 최선형 서비스의 한계, 그리고 수신자 오디오 지터 제거 및 패킷 손실 복구를 설명 할 수 있다.<BR>  ② RTP & SIP를 설명 할 수 있다.  <BR>  ③ 최선형네트워크의 설정, 다중 서비스 클래스의 제공을 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>12</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 컴퓨터 네트워크 보안 1<br>[기간:2026-04-29~2026-05-12]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 컴퓨터 네트워크 보안 1<BR><BR>2) 강의주제: <BR>  ① 네트워크 보안 이란 무엇인가?<BR>  ② 대칭키 암호화  ③ 공개키 암호화<BR> <BR>3) 강의내용(학습목표):<BR>  ① 현재 인터넷 설계자들이 네트워크 설계 시 가장 고려해야 할 상황       인 보안에 대해 설명 할 수 있다.  <BR>  ② 대칭키 암호화에 대해 설명 할 수 있다.  <BR>  ③ 공개키 암호화에 대해 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 컴퓨터 네트워크 보안 2<br>[기간:2026-04-29~2026-05-12]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 컴퓨터 네트워크 보안 2<BR><BR>2) 강의주제: <BR>  ① 암호화 해시 함수<BR>  ② 메시지 무결성과 전자 서명<BR>  ③ 종단점 인증<BR> <BR>3) 강의내용(학습목표):<BR>  ① 해시 함수의 개념과 이를 보안에 응용한 암호화 해시 함수에 대해 설명할 수 있다. <BR>  ② 메시지 인증 코드에 대해 설명 할 수 있다.<BR>  ③ 인증 프로토콜 apx.064X에 대해 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>13</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 컴퓨터 네트워크 보안 3<br>[기간:2026-05-06~2026-05-19]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 컴퓨터 네트워크 보안 3<BR><BR>2) 강의주제: <BR>  ① 보안 전자메일<BR>  ② PGP  <BR>  ③ TCP연결의 보안<BR> <BR>3) 강의내용(학습목표):<BR>  ① 지금까지 살펴본 대칭키와 공개키 암호화, 인증, 키 분배등의 보안 요소들이 인터넷 보안에 어떻게 적용되는지 설명 할 수 있다.<BR>  ② 1991년 필 짐머만이 만든 PGP(Pretty Good Privacy)를 설명 할 수 있다.   <BR>  ③ 향상된 TCP버전을 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 컴퓨터 네트워크 보안 4<br>[기간:2026-05-06~2026-05-19]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 컴퓨터 네트워크 보안 4<BR><BR>2) 강의주제: <BR>  ① IPsec과 가상 사설망<BR>  ② AH와 ESP 프로토콜<BR>  ③ Security Associations & IPsec 데이터 그램 <BR><BR>3) 강의내용(학습목표):<BR>  ① 많은 기관에서 공중 인터넷 상에가상 사설망(virtual private network, VPN)을 구축하기 위해 사용하는 IPsec를 설명할 수 있다.<BR>  ② AH(Authentication Header)& ESP(Encapsulation Security Protocol)에 대해 설명 할 수 있다.<BR>  ③ Security Associations & IPsec 데이터 그램을 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 rowspan="2" style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>14</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>01차시 컴퓨터 네트워크 보안 5<br>[기간:2026-05-13~2026-05-26]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 컴퓨터 네트워크 보안 5<BR><BR>2) 강의주제: <BR>  ① 무선랜 보안<BR>  ② 방화벽<BR>  ③ 침입 탐지 시스템<BR> <BR>3) 강의내용(학습목표):<BR>  ① WEP(Wired Equivalent Privacy) & IEEE 802.11i을 설명 할 수 있다.<BR>  ② 일반 네트워크와 기관의 내부 네트워크를 분리시킨 하드웨어와 소프트웨어의 조합인 방화벽을 설명 할 수 있다. <BR>  ③ 침입 탐지 시스템의 기능과 그 효율성에 대해 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>02차시 네트워크 관리<br>[기간:2026-05-13~2026-05-26]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>1) 강의제목: 네트워크 관리<BR><BR>2) 강의주제: <BR>  ① 네트워크 관리란?<BR>  ② 네트워크 관리를 위한 기반 구조  <BR>  ③ 인터넷 표준 관리 프레임 워크<BR> <BR>3) 강의내용(학습목표):<BR>  ① 효과적인 네트워크 관리를 설명 할 수 있다.<BR>  ② 네트워크 관리를 위한 기반 구조를 설명 할 수 있다.  <BR>  ③ 인터넷 표준 관리 프레임 워크를 설명 할 수 있다.</span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><span lang=EN-US style='font-size:9.0pt'>특강</span></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>6G</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'></span></p></td>
+</tr>
+<tr style='mso-yfti-irow:15'>
+<td width=38 style='width:1.0cm;border:solid windowtext 1.0pt; border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt; padding:0cm 0cm 0cm 0cm'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><p class=MsoNormal align=center style='text-align:center;line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>15</span></p></td>
+<td width=170 colspan=2 style='width:127.6pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm'><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>기말고사<br>[기간:2026-05-23~2026-05-26]</span></p></td>
+<td width=394 colspan=3 style='width:295.4pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm' wrap><p class=MsoNormal style='line-height:13.5pt'><span lang=EN-US style='font-size:9.0pt'>종강 4일 후 최종 성적 확인  <BR>종강 후 10일 이내, 성적 이의 신청 접수 및 처리 완료</span></p></td>
+</tr>
+</table>
+
+<p class=MsoNormal><span lang=EN-US style='font-size:9.0pt'><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
