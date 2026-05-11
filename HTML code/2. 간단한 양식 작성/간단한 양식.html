@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>간단한 양식</title>
+</head>
+<body>
+    <form>
+        <!--텍스트 입력-->
+        <label for="username">사용자 이름:</label> 
+        <input type="text" id="username" name="username">
+        <br>
+
+        <!--password 입력-->
+        <label for="password">비밀번호:</label>
+        <input type="password" id="password" name="password">
+
+        <!--radio 버튼-->
+        <p>성별:</p>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">남성</label>
+
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">여성</label>
+        <br>
+
+        <!--checkbox-->
+        <label for="subcribe">구독</label>
+        <input type="checkbox" id="subcribe" name="subcribe">
+        <label for="like">좋아요</label>
+        <input type="checkbox" id="like" name="like">
+        <br>
+
+        <!--드롭다운 선택-->
+        <label for="country">국가</label>
+        <select name="country" id="country">
+            <option value="korea">korea</option>
+            <option value="japan">japan</option>
+            <option value="china">china</option>
+        </select>
+        <br>
+        
+        <!--텍스트 에리어-->
+        <label for="message"></label>
+        <textarea name="message" id="message" cols="30" rows="10"></textarea>
+        <br>
+
+        <!--제출 버튼-->
+        <input type="submit" value="submit">
+
+?username=nalki
+&password=1234
+&gender=male
+&subcribe=on
+&like=on
+&country=korea
+&message=감사합니다.
+
+    </form>
+</body>
+</html>
